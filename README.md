@@ -1,6 +1,6 @@
 <h1>barnsy</h1>
 
-- barnsy (THIS IS MY ALT)
+- barnsy
 - 16
 - college student
 - united kingdom
