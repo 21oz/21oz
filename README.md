@@ -33,6 +33,7 @@
 - [GBN](discord.io/GBNUK) *(British/Semi-RP Fragging Server)*
 - [GBRP](discord.io/GBRP) *(British/Semi-RP Fragging Server)*
 - [CX](discord.gg/cxuk) *(British/Semi-RP Fragging Server)*
+- [MVP](discord.gg/mvp) *(British/Semi-RP Fragging Server)*
 - [ERP](discord.gg/erpuk) *(British/Semi-RP Fragging Server)*
 
 <h2 align="center">stats</h2>
