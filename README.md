@@ -36,9 +36,7 @@
 - [MVP](discord.gg/mvp) *(British/Semi-RP Fragging Server)*
 - [ERP](discord.gg/erpuk) *(British/Semi-RP Fragging Server)*
 
-<h2 align="center">contact</h2>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/477889975212572685?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Probably%20asleep)](https://discord.com/users/477889975212572685)
+<h2 align="center">stats</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barnsyyy&count_private=true&show_icons=true&theme=dracula)
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barnsyyy&theme=transparent" />
