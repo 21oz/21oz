@@ -43,6 +43,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barnsyyy&count_private=true&show_icons=true&theme=dracula)
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barnsyyy&theme=transparent" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=barnsyyy&hide_border=true&card_width=338&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barnsyyy&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /></p>
 <img src="https://komarev.com/ghpvc/?username=barnsyyy&color=lightgray" alt="fax" width="" height="">
 <p align="center">
