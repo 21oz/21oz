@@ -39,7 +39,6 @@
 
 <h2 align="center">stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barnsyyy&count_private=true&show_icons=true&theme=dracula)
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barnsyyy&theme=transparent" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=barnsyyy&hide_border=true&card_width=338&theme=transparent" />
 <img src="https://komarev.com/ghpvc/?username=barnsyyy&color=lightgray" alt="fax" width="" height="">
