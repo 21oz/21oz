@@ -39,6 +39,7 @@
 
 <h2 align="center">stats</h2>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1041903927253286952)](https://discord.com/users/1041903927253286952)
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barnsyyy&theme=transparent" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=barnsyyy&hide_border=true&card_width=338&theme=transparent" />
 <img src="https://komarev.com/ghpvc/?username=barnsyyy&color=lightgray" alt="fax" width="" height="">
