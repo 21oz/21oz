@@ -40,7 +40,7 @@
 <h2 align="center">stats</h2>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/477889975212572685)](https://discord.com/users/477889975212572685)
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barnsyyy&theme=transparent" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=barnsyyy&hide_border=true&card_width=338&theme=transparent" />
-<img src="https://komarev.com/ghpvc/?username=barnsyyy&color=lightgray" alt="fax" width="" height="">
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barnsyx&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=barnsyx&hide_border=true&card_width=338&theme=transparent" />
+<img src="https://komarev.com/ghpvc/?username=barnsyx&color=lightgray" alt="fax" width="" height="">
 <p align="center">
