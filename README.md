@@ -27,6 +27,7 @@
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+- [BR](discord.gg/brstudios) *(British/Semi-RP Fragging Server)*
 - [AVR](discord.gg/avr) *(FiveM UK/EU based Deathmatch Server)*
 - [DBR](https://discord.gg/dbruk) *(British/Semi-RP Fragging Server)*
 - [Terror RP](dsc.gg/terrorp) *(British/Semi-RP Fragging Server)*
