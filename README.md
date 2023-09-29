@@ -22,11 +22,13 @@
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
-- [GMT](https://discord.gg/gmtuk) (British/Semi-RP Fragging Server)
+- Nothing
 
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+- [GMT](https://discord.gg/gmt) (British/Semi-RP Fragging Server)
+- [LUNA](discord.gg/lunarp) *(British/Semi-RP Fragging Server)*
 - [BR](discord.gg/brstudios) *(British/Semi-RP Fragging Server)*
 - [AVR Deathmatch](discord.gg/avr) *(FiveM UK/EU based Deathmatch Server)*
 - [DBR](https://discord.gg/dbruk) *(British/Semi-RP Fragging Server)*
