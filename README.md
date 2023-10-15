@@ -31,6 +31,7 @@
 - [LUNA](discord.gg/lunarp) *(British/Semi-RP Fragging Server)*
 - [BR](discord.gg/brstudios) *(British/Semi-RP Fragging Server)*
 - [AVR Deathmatch](discord.gg/avr) *(FiveM UK/EU based Deathmatch Server)*
+- [FNR](discord.gg/FNR) *(British/Semi-RP Fragging Server)*
 - [DBR](https://discord.gg/dbruk) *(British/Semi-RP Fragging Server)*
 - [Terror RP](dsc.gg/terrorp) *(British/Semi-RP Fragging Server)*
 - [FNR Deathmatch](discord.gg/FNRDM) *(FiveM UK/EU based Deathmatch Server)*
